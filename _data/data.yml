@@ -29,23 +29,29 @@ sidebar:
     pdf: https://github.com/Umbertotroia/CV/raw/main/Cv%20Troia%20Umberto%20Benito.pdf
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: Italiano
+        level: Madrelingua
 
-      - idiom: French
-        level: Professional
+      - idiom: Inglese
+        level: Intermedio
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Francese
+        level: Scolastico
 
     interests:
-      - item: Climbing
+      - item: Nuoto
         link:
 
-      - item: Snowboarding
+      - item: Basket
+        link:
+        
+      - item: Musica
+        link:
+        
+      - item: Cinema
         link:
 
-      - item: Cooking
+      - item: Cucina
         link:
 
 career-profile:
