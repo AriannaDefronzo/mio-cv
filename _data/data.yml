@@ -57,12 +57,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Umberto Benito Troia, laureando al Politecnico di Bari- Facoltà di Ingegneria Informatica – Sistemi ed applicazioni informatiche, con competenze in ambito sistemistico e sviluppo software e web.
+Mi occupo di programmazione inoltre curo la contabilità dell’azienda di famiglia (emissione di fatture elettroniche, contatto con i clienti, compilazione di documenti vari).
+Lavoro bene sia con adulti che con giovani e sono una persona pro attiva al cambiamento, riuscendo ad adattarsi facilmente a situazioni nuove. Sono capace di effettuare piccole riparazioni sia hardware che software e se richiesto riesco ad agire in totale autonomia.
+
 education:
     - degree: Ingegneria Informatica – Sistemi ed applicazioni informatiche 
       university: Politecnico di Bari - Bari
