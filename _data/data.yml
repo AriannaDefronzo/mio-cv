@@ -123,8 +123,9 @@ projects:
      # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Attestato di qualifica professionale in Tecnico esperto in applicazioni
-        link: "#hook"
-      #  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        #link: "#hook"
+        tagline: "Metodologie di programmazione – Progettazione e gestione di Basi di Dati e Sistemi Informativi - Predisposizione ambienti 
+        di sviluppo (linux apache, mysql, php) – Progettazione e sviluppo siti web – Programmazione orientata agli oggetti."
 
       #- title: DevStudio
        # link: "#"
