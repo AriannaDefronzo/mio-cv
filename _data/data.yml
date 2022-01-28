@@ -92,43 +92,28 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Collaboratore amministrativo
+      time: 2015 - ad oggi
+      company: Troia Michele Autotrasporti - Molfetta (BA)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Coadiuvante nella contabilità dell’azienda di famiglia: 
+        emissione di fatture elettroniche, contatto con i clienti, 
+        compilazione di documenti vari.
+    - role: Volontariato studentesco
+      time: 2013 - 2017
+      company: AUP (Associazione Ulisse Politecnico) - Bari
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Sistemista di rete, creazione DB per tessere associati, 
+        creazione e pubblicazione di materiale grafico su vari 
+        canali social, redattore per il sito associativo, gestione 
+        pagina e gruppi Facebook associativi.
+     
+    - role: Programmatore
+      time: 2015 - 2015
+      company: Exprivia S.r.l. - Molfetta (BA)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Tirocinio pratico: progettazione Query in SQL volte 
+        all’interrogazione dei database.
 #projects:
  #   title: Projects
   #  intro: >
