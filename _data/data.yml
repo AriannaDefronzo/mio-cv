@@ -115,6 +115,7 @@ experiences:
       details: |
         Tirocinio pratico: progettazione Query in SQL volte 
         all’interrogazione dei database.
+        
 projects:
     title: Projects
     intro: >
@@ -163,7 +164,6 @@ publications:
         link: "#"
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
-
 
 skills:
     title: Skills &amp; Proficiency
