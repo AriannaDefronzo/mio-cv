@@ -115,30 +115,32 @@ experiences:
         Tirocinio pratico: progettazione Query in SQL volte 
         all’interrogazione dei database.
         
-experiences:
-    - role: Collaboratore amministrativo
-      time: 2015 - ad oggi
-      company: Troia Michele Autotrasporti - Molfetta (BA)
-      details: |
-        Coadiuvante nella contabilità dell’azienda di famiglia: 
-        emissione di fatture elettroniche, contatto con i clienti, 
-        compilazione di documenti vari.
-        
-    - role: Volontariato studentesco
-      time: 2013 - 2017
-      company: AUP (Associazione Ulisse Politecnico) - Bari
-      details: |
-        Sistemista di rete, creazione DB per tessere associati, 
-        creazione e pubblicazione di materiale grafico su vari 
-        canali social, redattore per il sito associativo, gestione 
-        pagina e gruppi Facebook associativi.
-     
-    - role: Programmatore
-      time: 2015 - 2015
-      company: Exprivia S.r.l. - Molfetta (BA)
-      details: |
-        Tirocinio pratico: progettazione Query in SQL volte 
-        all’interrogazione dei database.        
+eprojects:
+    title: Projects
+  #  intro: >
+   #   You can list your side projects or open source libraries in this
+    #  section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+     # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+      #  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      #- title: DevStudio
+       # link: "#"
+        #tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      #- title: Tempo
+       # link: "#"
+        #tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      #- title: Atom
+       # link: "#"
+        #tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      #- title: Delta
+       # link: "#"
+        #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 
 #publications:
