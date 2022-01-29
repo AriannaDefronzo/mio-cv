@@ -116,13 +116,44 @@ experiences:
         all’interrogazione dei database.
         
 projects:
-    - role: Attestato di qualifica professionale in Tecnico esperto in applicazioni
-      time: 2014 - 2015
-      company: Centro Studi Levante – Molfetta (BA)
+
+      - role: 24 CFU insegnamento
+      time: 2022 - In corso
+      company: eCampus
       details: |
-        Metodologie di programmazione – Progettazione e gestione di Basi di Dati e Sistemi 
-        Informativi - Predisposizione ambienti di sviluppo (linux apache, mysql, php) – Progettazione 
-        e sviluppo siti web – Programmazione orientata agli oggetti.
+        Percorso formativo volto all'acquisizione di 24 CFU in discipline 
+        antropo-psico-pedagogiche e in metodologie e tecnologie didattiche
+        validi come requisito di accesso al Concorso Scuola.
+        
+    - role: Addestramento professionale alla dattilografia
+      time: 2021
+      company: Irsaf Education
+      details: |
+        Addestramento professionale alla dattilografia.
+        
+    - role: CCNA Discovery: Networking for home and Smalli Businesses
+      time: 2013
+      company: Cisco
+      details: |
+        Configurazione e gestione di reti informatiche domestiche e di piccole aziende.
+    
+    - role: ECDL Full
+      time: 2013
+      company: Aica
+      details: |
+        Utilizzo dell’intero pacchetto office.
+        
+    - role: Attestato di lingua Inglese B1.2
+      time: 2012
+      company: Trinity College London
+      details: |
+        Certificazione linguistica livello B1.2 con distinzione.
+        
+    - role: IT Essentials: PC Hardware and Software
+      time: 2011
+      company: Cisco
+      details: |
+        Assemblatore e riparatore PC, con competenze in ambito Hardware and Software.
 
 #publications:
  #   title: Publications
