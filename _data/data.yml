@@ -115,17 +115,15 @@ experiences:
         Tirocinio pratico: progettazione Query in SQL volte 
         all’interrogazione dei database.
         
- projects:
+projects:
     - role: 24 CFU insegnamento
       time: 2022 - In corso
       company: eCampus
       details: |
         Percorso formativo volto all'acquisizione di 24 CFU in discipline 
         antropo-psico-pedagogiche e in metodologie e tecnologie didattiche
-        validi come requisito di accesso al Concorso Scuola.
-        
+        validi come requisito di accesso al Concorso Scuola.   
     
-
 #publications:
  #   title: Publications
   #  intro: |
