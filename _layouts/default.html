@@ -15,6 +15,21 @@
         {{ content }}
     </div>
   </div>
+  <a href=”#” class=”scrollToTop” style=”position:fixed;bottom:20px;right:20px;display:none”>
+     <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-arrow-up fa-stack-1x fa-inverse"></i>
+    </span>
+  </a>
+  < script type=”text/javascript” >
+    jQuery(document).ready(function($){
+    $(window).scroll(function(){
+    if ($(this).scrollTop() > 400) {$(‘.scrollToTop’).fadeIn();} else
+    {$(‘.scrollToTop’).fadeOut(“slow”);}});
+    $(‘.scrollToTop’).click(function()
+    {$(‘html,body’).animate({scrollTop : 0},800);return false;});
+    });
+  < /script >
 
   {% include footer.html %}
 
