@@ -116,7 +116,7 @@ experiences:
         all’interrogazione dei database.
         
 projects:
-  - name: Attestato di qualifica professionale in Tecnico esperto in applicazioni
+    - role: Attestato di qualifica professionale in Tecnico esperto in applicazioni
       time: 2014 - 2015
       company: Centro Studi Levante – Molfetta (BA)
       details: |
