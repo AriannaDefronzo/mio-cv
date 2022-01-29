@@ -130,6 +130,14 @@ projects:
       details: |
         Addestramento professionale alla dattilografia.
         
+    - role: Attestato di qualifica professionale in Tecnico esperto in applicazioni
+      time: 2014 - 2015
+      company: Centro Studi Levante – Molfetta (BA)
+       details: |
+        Metodologie di programmazione – Progettazione e gestione di Basi di Dati e Sistemi Informativi
+        - Predisposizione ambienti di sviluppo (linux apache, mysql, php) – Progettazione e sviluppo siti
+        web – Programmazione orientata agli oggetti.
+        
     - role: CCNA Discovery: Networking for home and Smalli Businesses
       time: 2013 - 2013
       company: Cisco
