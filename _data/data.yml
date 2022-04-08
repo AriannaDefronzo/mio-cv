@@ -57,7 +57,7 @@ sidebar:
 career-profile:
     title: Il mio profilo
     summary: |
-      Umberto Benito Troia, laureando al Politecnico di Bari- Facoltà di Ingegneria
+      Umberto Benito Troia, laureando al Politecnico di Bari - Facoltà di Ingegneria
       Informatica – Sistemi ed applicazioni informatiche, con competenze in ambito
       sistemistico e sviluppo software e web.
       Mi occupo di programmazione inoltre curo la contabilità dell’azienda di famiglia
@@ -91,6 +91,13 @@ education:
           - Bullet point
           - Bullet point
 experiences:
+    - role: Hepdesk IT Support
+      time: 2022 - 2022
+      company: RainWeb S.r.l. - Bisceglie (BT)
+      details: |
+        Assistenza tecnica su CRM aziendale e produzione di contenuti
+        grafici.
+        
     - role: Collaboratore amministrativo
       time: 2015 - ad oggi
       company: Troia Michele Autotrasporti - Molfetta (BA)
