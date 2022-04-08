@@ -91,6 +91,12 @@ education:
           - Bullet point
           - Bullet point
 experiences:
+    - role: Software Engineer
+      time: 2022 - oggi
+      company: Talentia Software Italia - Bari (BA)
+      details: |
+       Analista programmatore.
+        
     - role: Hepdesk IT Support
       time: 2022 - 2022
       company: RainWeb S.r.l. - Bisceglie (BT)
