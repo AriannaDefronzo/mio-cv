@@ -60,7 +60,7 @@ career-profile:
       Umberto Benito Troia, Software Engineer presso Talentia Software e laureando al Politecnico di Bari - Facoltà di Ingegneria
       Informatica – Sistemi ed applicazioni informatiche, con competenze in ambito
       sistemistico e sviluppo software e web.
-      Mi occupo di ricerca e Sviluppo presso Talentia Software inoltre curo la contabilità dell’azienda di famiglia
+      Mi occupo di Ricerca e Sviluppo presso Talentia Software inoltre curo la contabilità dell’azienda di famiglia
       (emissione di fatture elettroniche, contatto con i clienti, compilazione di 
       documenti vari).
       Lavoro bene sia con adulti che con giovani e sono una persona pro attiva al 
@@ -130,7 +130,7 @@ experiences:
         
 projects:
     - role: 24 CFU insegnamento
-      time: 2022 - In corso
+      time: 2022 - 2022
       company: eCampus
       details: |
         Percorso formativo volto all'acquisizione di 24 CFU in discipline 
@@ -214,13 +214,16 @@ skills:
         level: 45%
 
       - name: SQL
-        level: 60%
+        level: 80%
 
       - name: Office suite
         level: 80%
         
       - name: Visual Basic
         level: 20%
+        
+      - name: JavaScript
+        level: 60%
 
 #footer: >
   #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
