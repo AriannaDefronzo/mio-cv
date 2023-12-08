@@ -255,6 +255,10 @@ p {
         background: $smoky-white;
     }
     .level-bar-inner {
+        height: 12px;
+        background: lighten($theme-color, 15%);
+    }
+}
 
    //.fa-inverse,
    //.fa-inverse:after,
