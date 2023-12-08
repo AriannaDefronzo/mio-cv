@@ -138,25 +138,42 @@ experiences:
       time: 2015 - ad oggi
       company: Troia Michele Autotrasporti - Molfetta (BA)
       details: |
-        Coadiuvante nella contabilità dell’azienda di famiglia: 
-        emissione di fatture elettroniche, contatto con i clienti, 
-        compilazione di documenti vari.
+        Gestione e emissione di fatture elettroniche in conformità con le normative vigenti, 
+        garantendo l'accuratezza e la tempestività nella documentazione finanziaria. Contatto
+        con i clienti ed i fornitori. Supporto nella compilazione di documenti di varia natura, 
+        inclusi report contabili, dichiarazioni fiscali e altri documenti amministrativi necessari 
+        per la gestione efficiente dell'attività.
         
     - role: Volontariato studentesco
       time: 2013 - 2017
       company: AUP (Associazione Ulisse Politecnico) - Bari
       details: |
-        Sistemista di rete, creazione DB per tessere associati, 
-        creazione e pubblicazione di materiale grafico su vari 
-        canali social, redattore per il sito associativo, gestione 
-        pagina e gruppi Facebook associativi.
+          Durante il mio periodo di volontariato studentesco, ho ricoperto diversi ruoli tra cui il 
+          Sistemista di Rete, garantendo la stabilità e la sicurezza delle infrastrutture informatiche
+          associate. Ciò ha coinvolto la configurazione e la manutenzione di reti, hardware e software,
+          contribuendo a creare un ambiente operativo efficiente, Creazione di Database per Tessere 
+          Associati, ho progettato e implementato un database dedicato alla gestione delle tessere
+          degli associati, semplificando il processo di registrazione, archiviazione e ricerca di 
+          informazioni cruciali, Creazione e Pubblicazione di Materiale Grafico, ho curato la creazione
+          di materiale grafico accattivante, promuovendo le attività dell'associazione su diversi canali
+          social. Questo ha contribuito a migliorare la visibilità e l'engagement della comunità associativa, 
+          Redattore per il Sito Associativo, in veste di redattore, ho contribuito alla produzione di contenuti
+          informativi e coinvolgenti per il sito dell'associazione, fornendo agli studenti una fonte accurata 
+          e aggiornata di informazioni, Gestione di Pagina e Gruppi Facebook Associativi, ho gestito attivamente 
+          la presenza dell'associazione sui social media, con un focus particolare sulla pagina e sui gruppi
+          associativi su Facebook. Questo ha incluso la pubblicazione di contenuti, la gestione delle interazioni 
+          e la promozione delle iniziative dell'associazione.
      
     - role: Programmatore
       time: 2015 - 2015
       company: Exprivia S.r.l. - Molfetta (BA)
       details: |
-        Tirocinio pratico: progettazione Query in SQL volte 
-        all’interrogazione dei database.
+          Durante il mio tirocinio pratico, ho avuto l'opportunità di focalizzarmi sulla progettazione di
+          query in SQL finalizzate all'interrogazione dei database. Questa esperienza mi ha consentito di 
+          sviluppare competenze specifiche nel manipolare e recuperare dati in modo efficace, sottolineando 
+          la mia capacità di lavorare con precisione e comprensione nei confronti delle strutture dati complesse.
+          Le attività svolte comprendevano: Progettazione di Query SQL, Ottimizzazione delle Prestazioni, 
+          Redazione di Report, Debugging e Risoluzione Problemi e Applicazione delle Best Practice.
         
 projects:
     - role: 24 CFU insegnamento
