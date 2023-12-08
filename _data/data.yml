@@ -176,6 +176,12 @@ experiences:
           e la promozione delle iniziative dell'associazione.
         
 projects:
+    - role: Microsoft AZ-900
+      time: In Corso
+      company: Microsoft
+      details: |
+        Conoscenza di base e comprensione dei concetti chiave relativi a Microsoft Azure e ai servizi cloud in generale. 
+        
     - role: 24 CFU insegnamento
       time: 2022 - 2022
       company: eCampus
@@ -198,7 +204,7 @@ projects:
         Predisposizione ambienti di sviluppo (linux apache, mysql, php), Progettazione e sviluppo siti
         web, Programmazione orientata agli oggetti.
         
-    - role: CCNA Discovery - Networking for home and Smalli Businesses
+    - role: CCNA Discovery - Networking for home and Small Businesses
       time: 2013 - 2013
       company: Cisco
       details: |
