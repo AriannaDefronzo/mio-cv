@@ -143,7 +143,18 @@ experiences:
         con i clienti ed i fornitori. Supporto nella compilazione di documenti di varia natura, 
         inclusi report contabili, dichiarazioni fiscali e altri documenti amministrativi necessari 
         per la gestione efficiente dell'attività.
-        
+     
+    - role: Programmatore
+      time: 2015 - 2015
+      company: Exprivia S.r.l. - Molfetta (BA)
+      details: |
+          Durante il mio tirocinio pratico, ho avuto l'opportunità di focalizzarmi sulla progettazione di
+          query in SQL finalizzate all'interrogazione dei database. Questa esperienza mi ha consentito di 
+          sviluppare competenze specifiche nel manipolare e recuperare dati in modo efficace, sottolineando 
+          la mia capacità di lavorare con precisione e comprensione nei confronti delle strutture dati complesse.
+          Le attività svolte comprendevano: Progettazione di Query SQL, Ottimizzazione delle Prestazioni, 
+          Redazione di Report, Debugging e Risoluzione Problemi e Applicazione delle Best Practice.
+          
     - role: Volontariato studentesco
       time: 2013 - 2017
       company: AUP (Associazione Ulisse Politecnico) - Bari
@@ -163,17 +174,6 @@ experiences:
           la presenza dell'associazione sui social media, con un focus particolare sulla pagina e sui gruppi
           associativi su Facebook. Questo ha incluso la pubblicazione di contenuti, la gestione delle interazioni 
           e la promozione delle iniziative dell'associazione.
-     
-    - role: Programmatore
-      time: 2015 - 2015
-      company: Exprivia S.r.l. - Molfetta (BA)
-      details: |
-          Durante il mio tirocinio pratico, ho avuto l'opportunità di focalizzarmi sulla progettazione di
-          query in SQL finalizzate all'interrogazione dei database. Questa esperienza mi ha consentito di 
-          sviluppare competenze specifiche nel manipolare e recuperare dati in modo efficace, sottolineando 
-          la mia capacità di lavorare con precisione e comprensione nei confronti delle strutture dati complesse.
-          Le attività svolte comprendevano: Progettazione di Query SQL, Ottimizzazione delle Prestazioni, 
-          Redazione di Report, Debugging e Risoluzione Problemi e Applicazione delle Best Practice.
         
 projects:
     - role: 24 CFU insegnamento
