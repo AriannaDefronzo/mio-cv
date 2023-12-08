@@ -3,10 +3,11 @@
     @page {
         size: A4;
     }
+
     body {
     font-family: 'Roboto', sans-serif;
-    color: $text-color-secondary;
-    background: #0000FF;
+    color: #545E6C;
+    background: #f5f5f5;
     font-size: 12px;
     padding: 30px;
     -webkit-font-smoothing: antialiased;
@@ -18,10 +19,10 @@ h1, h2, h3, h4, h5, h6  {
 }
 
 a {
-    color: darken($theme-color, 15%);
+    color: darken(#42A8C0, 15%);
     &:hover {
         text-decoration: underline;
-        color: darken($theme-color, 30%);
+        color: darken(#42A8C0, 30%);
     }
     &:focus {
         text-decoration: none;
@@ -33,7 +34,7 @@ p {
 }
 
 .wrapper {
-    background:$theme-color;
+    background:#42A8C0;
     max-width: 1000px;
     margin: 0 auto;
     position: relative;
@@ -41,7 +42,7 @@ p {
 }
 
 .sidebar-wrapper {
-    background: $theme-color;
+    background: #42A8C0;
     position: absolute;
     right: 0;
     width: 25%;
@@ -53,7 +54,7 @@ p {
     }
     .profile-container {
         padding: 30px;
-        //background: darken($theme-color, 10%);
+        //background: darken(#42A8C0, 10%);
         background: rgba(0, 0, 0, 0.2);
         text-align: center;
         color: #fff;
@@ -165,7 +166,7 @@ p {
         text-transform: uppercase;
         font-size: 20px;
         font-weight: 500;
-        color: darken($theme-color, 15%);
+        color: darken(#42A8C0, 15%);
         position: relative;
         margin-top: 0;
         margin-bottom: 20px;
@@ -185,7 +186,7 @@ p {
         margin-bottom: 2px;
     }
     .job-title, .degree, .certification-title {
-        color: $text-color;
+        color: #3F4650;
         font-size: 16px;
         margin-top: 0;
         margin-bottom: 0;
@@ -195,11 +196,11 @@ p {
         position: absolute;
         right: 0;
         top: 0;
-        color: $text-grey;
+        color: #97AAC3;
     }
     .company, .university {
         margin-bottom: 10px;
-        color: $text-grey;
+        color: #97AAC3;
     }
 /*
     .project-title {
@@ -207,7 +208,7 @@ p {
         font-weight: 400;
         margin-top: 0;
         margin-bottom: 5px;
-	color: darken($theme-color, 15%);
+	color: darken(#42A8C0, 15%);
     }
     .projects-section {
         .intro {
@@ -221,12 +222,12 @@ p {
     .publication-title {
         font-size: 16px;
         font-weight: 400;
-        color: $text-color;
+        color: #3F4650;
         margin-bottom: 1px;
     }
     .publication-authors {
         font-style: italic;
-        color: $text-grey;
+        color: #97AAC3;
         margin-bottom: 1px;
     }
     .publications-section {
@@ -252,11 +253,11 @@ p {
     }
     .level-bar {
         height: 12px;
-        background: $smoky-white;
+        background: #f5f5f5;
     }
     .level-bar-inner {
         height: 12px;
-        background: lighten($theme-color, 15%);
+        background: lighten(#42A8C0, 15%);
     }
 }
 
