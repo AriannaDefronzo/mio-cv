@@ -14,14 +14,14 @@
    .main-wrapper .time {
        float: right;
        // color: black !important;
-       // -webkit-print-color-adjust: exact; 
+       -webkit-print-color-adjust: exact; 
    }
     .sidebar-wrapper {
         position: relative;
         float: right;
         width: 25%;
         height: 100%
-        //-webkit-print-color-adjust: exact; 
+        -webkit-print-color-adjust: exact; 
     }
 
     .remove-container.container-block {
@@ -34,12 +34,12 @@
 
     .skillset .level-bar-inner {
       // background-color: black !important;
-      // -webkit-print-color-adjust: exact; 
+       -webkit-print-color-adjust: exact; 
     }
 
-   //.fa-inverse,
-   //.fa-inverse:after,
-   //.fa-inverse:before {
+   .fa-inverse,
+   .fa-inverse:after,
+   .fa-inverse:before //{
     // color: #ffffff !important;
    //}
 
