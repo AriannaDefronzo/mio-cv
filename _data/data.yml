@@ -9,7 +9,7 @@ sidebar:
   
     # Profile information
     name: Umberto Benito Troia
-    #tagline: Full Stack Developer
+    tagline: R&D - Software Engineer
     avatar: profil.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -57,16 +57,16 @@ sidebar:
 career-profile:
     title: Il mio profilo
     summary: |
-      Umberto Benito Troia, Software Engineer presso Talentia Software e laureando al Politecnico di Bari - Facoltà di Ingegneria
-      Informatica – Sistemi ed applicazioni informatiche, con competenze in ambito
-      sistemistico e sviluppo software e web.
-      Mi occupo di Ricerca e Sviluppo presso Talentia Software inoltre curo la contabilità dell’azienda di famiglia
-      (emissione di fatture elettroniche, contatto con i clienti, compilazione di 
-      documenti vari).
-      Lavoro bene sia con adulti che con giovani e sono una persona pro attiva al 
-      cambiamento, riuscendo ad adattarsi facilmente a situazioni nuove. Sono capace 
-      di effettuare piccole riparazioni sia hardware che software e se richiesto riesco 
-      ad agire in totale autonomia.
+      Sono Umberto Benito Troia, attualmente ricopro la posizione di Software Engineer 
+      presso Talentia Software con una solida formazione (in corso) presso il Politecnico 
+      di Bari nella Facoltà di Ingegneria Informatica – Sistemi ed Applicazioni Informatiche. 
+      La mia esperienza professionale e accademica si fonde, portando in dote competenze avanzate 
+      in ambito sistemistico e nello sviluppo software e web. Presso Talentia Software, mi occupo 
+      attivamente di Ricerca e Sviluppo, contribuendo all'innovazione e al miglioramento continuo 
+      delle soluzioni software dell'azienda. Inoltre curo la contabilità dell’azienda di famiglia. 
+      Lavoro bene sia con adulti che con giovani ed essendo una persona pro attiva al cambiamento 
+      riesco ad adattarmi facilmente a situazioni nuove. Sono capace di effettuare piccole 
+      riparazioni sia hardware che software e se richiesto riesco ad agire in totale autonomia.
 education:
     - degree: Ingegneria Informatica – Sistemi ed applicazioni informatiche 
       university: Politecnico di Bari - Bari
