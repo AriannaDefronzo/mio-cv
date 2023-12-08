@@ -92,17 +92,47 @@ education:
           - Bullet point
 experiences:
     - role: Software Engineer
-      time: 2022 - oggi
+      time: 2022 - ad oggi
       company: Talentia Software Italia - Bari (BA)
       details: |
-       Analista programmatore.
+       In qualità di Software Engineer, la mia carriera si è concentrata su diverse 
+       tappe cruciali del ciclo di sviluppo software, dimostrando una padronanza delle 
+       fasi di analisi, sviluppo e ricerca. Nel contesto dell'analisi, ho collaborato 
+       attivamente con gli stakeholder ed attraverso la comprensione delle loro esigenze
+       ho potuto eseguire una traduzione chiara dei requisiti di progetto. Nel corso delle
+       attività di sviluppo, ho svolto un ruolo chiave nella progettazione e nell'implementazione
+       di soluzioni avanzate. Questo ha coinvolto l'integrazione sinergica del sistema di gestione
+       e modellazione dei dati basato su SQL Server con linguaggi di programmazione quali C# 
+       e JavaScript. Attraverso questa integrazione, ho facilitato la manipolazione ed 
+       elaborazione efficiente dei dati, garantendo una gestione coesa e ottimizzata 
+       dell'intero ciclo di sviluppo. La partecipazione dinamica alla Ricerca e Sviluppo
+       (R&D) è stata un elemento chiave, guidandomi nell'esplorazione di nuove tecnologie 
+       e nella creazione di prototipi avanzati, alimentando continuamente l'innovazione 
+       delle soluzioni software. Ho mantenuto uno sguardo attento al testing software, 
+       implementato test unitari dettagliati con framework come JUnit, NUnit o SpecFlow,
+       di integrazione e di sistema, lavorando in stretta collaborazione con i team QA per 
+       garantire la solidità e la qualità delle applicazioni. Nei progetti più recenti ho 
+       esteso le mie competenze all'integrazione di soluzioni esterne ,mediante Rest API, 
+       tra cui Arca24 per l'importazione di campagne di recruiting e la gestione dei 
+       candidati, nonché l'interazione con Urssaf per la redazione del DPAE.
         
     - role: Hepdesk IT Support
       time: 2022 - 2022
       company: RainWeb S.r.l. - Bisceglie (BT)
       details: |
-        Assistenza tecnica su CRM aziendale e produzione di contenuti
-        grafici.
+        Come membro del team di Helpdesk IT, ho rivestito un ruolo cruciale nell'offrire 
+        un supporto tecnico di prima e seconda linea per risolvere tempestivamente le 
+        problematiche hardware e software degli utenti. La mia responsabilità includeva 
+        la creazione e la gestione degli account utente, insieme alla gestione delle 
+        autorizzazioni e alla risoluzione delle problematiche legate all'accesso alle 
+        risorse aziendali. Ho svolto un ruolo attivo nella formazione di base degli utenti, 
+        fornendo istruzioni chiare e approfondite su software e strumenti aziendali. 
+        Questo approccio mirava a massimizzare l'efficienza e la produttività degli utenti,
+        contribuendo a creare un ambiente di lavoro più fluido e ottimizzato. Attraverso 
+        il monitoraggio proattivo dei sistemi, ho identificato anomalie e segnalato 
+        tempestivamente problemi critici. Questa pratica proattiva è stata cruciale 
+        per prevenire potenziali interruzioni e garantire la stabilità operativa 
+        del sistema informativo aziendale.
         
     - role: Collaboratore amministrativo
       time: 2015 - ad oggi
