@@ -4,20 +4,43 @@
         size: A4;
     }
     body {
-       font-size: 12pt;
-    }
+    font-family: 'Roboto', sans-serif;
+    color: $text-color-secondary;
+    background: $smoky-white;
+    font-size: 12px;
+    padding: 30px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
 
-    img.avatar {
-       // filter: grayscale(1);
-        //-webkit-filter: greyscale(1);
+h1, h2, h3, h4, h5, h6  {
+    font-weight: 700;
+}
+
+a {
+    color: darken($theme-color, 15%);
+    &:hover {
+        text-decoration: underline;
+        color: darken($theme-color, 30%);
     }
-   .main-wrapper .time {
-        position: absolute;
-        right: 0;
-        top: 0;
-        color: $text-grey;
-   }
-    .sidebar-wrapper {
+    &:focus {
+        text-decoration: none;
+    }
+}
+
+p {
+    line-height: 1.5;
+}
+
+.wrapper {
+    background:$theme-color;
+    max-width: 1000px;
+    margin: 0 auto;
+    position: relative;
+    @include box-shadow(0px 2px 4px rgba(0,0,0,0.1));
+}
+
+.sidebar-wrapper {
     background: $theme-color;
     position: absolute;
     right: 0;
@@ -134,18 +157,104 @@
     }
 }
 
-    .remove-container.container-block {
-       //display: none;
+.main-wrapper {
+    background: #fff;
+    padding: 30px;
+    padding-right: 310px;
+    .section-title {
+        text-transform: uppercase;
+        font-size: 20px;
+        font-weight: 500;
+        color: darken($theme-color, 15%);
+        position: relative;
+        margin-top: 0;
+        margin-bottom: 20px;
+    }
+    .section {
+        margin-bottom: 60px;
     }
 
-    .footer {
-       display: none;
+    .experiences-section, .educations-section, .projects-section {
+        .item {
+            margin-bottom: 30px;
+        }
     }
+    .upper-row {
+        position: relative;
+        overflow: hidden;
+        margin-bottom: 2px;
+    }
+    .job-title, .degree, .certification-title {
+        color: $text-color;
+        font-size: 16px;
+        margin-top: 0;
+        margin-bottom: 0;
+        font-weight: 500;
+    }
+    .time {
+        position: absolute;
+        right: 0;
+        top: 0;
+        color: $text-grey;
+    }
+    .company, .university {
+        margin-bottom: 10px;
+        color: $text-grey;
+    }
+/*
+    .project-title {
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 0;
+        margin-bottom: 5px;
+	color: darken($theme-color, 15%);
+    }
+    .projects-section {
+        .intro {
+            margin-bottom: 30px;
+        }
+        .item {
+            margin-bottom: 15px;
+        }
+    }*/
 
-    .skillset .level-bar-inner {
+    .publication-title {
+        font-size: 16px;
+        font-weight: 400;
+        color: $text-color;
+        margin-bottom: 1px;
+    }
+    .publication-authors {
+        font-style: italic;
+        color: $text-grey;
+        margin-bottom: 1px;
+    }
+    .publications-section {
+        .intro {
+            margin-bottom: 30px;
+        }
+        .item {
+            margin-bottom: 15px;
+        }
+    }
+}
+
+
+.skillset {
+    .item {
+        margin-bottom: 15px;
+        overflow: hidden;
+    }
+    .level-title {
+        font-size: 14px;
+        margin-top: 0;
+        margin-bottom: 12px;
+    }
+    .level-bar {
         height: 12px;
-        background: lighten($theme-color, 15%);
+        background: $smoky-white;
     }
+    .level-bar-inner {
 
    //.fa-inverse,
    //.fa-inverse:after,
