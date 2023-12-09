@@ -2,7 +2,7 @@
 {% if skills %}
 <section class="skills-section section">
 
-  <h2 class="section-title">
+  <h2 class="container-block-title">
     {{ skills.title }}
   </h2>
 
@@ -12,6 +12,7 @@
     <div class="item">
 
       <h3 class="level-title">{{ skill.name }}</h3>
+      <br>
 
       <div class="level-bar">
         <div class="level-bar-inner" data-level="{{ skill.level }}">
