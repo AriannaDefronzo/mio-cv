@@ -49,6 +49,7 @@ p {
     height: 100%;
     min-height: 800px;
     color: #fff;
+    -webkit-print-color-adjust: exact; 
     a {
         color: #fff;
     }
@@ -196,7 +197,8 @@ p {
         position: absolute;
         right: 0;
         top: 0;
-        color: #97AAC3;
+        color: #97AAC3 !important;
+	-webkit-print-color-adjust: exact;
     }
     .company, .university {
         margin-bottom: 10px;
@@ -257,7 +259,8 @@ p {
     }
     .level-bar-inner {
         height: 12px;
-        background: lighten(#42A8C0, 15%);
+        background: lighten(#42A8C0, 15%) !important;
+       -webkit-print-color-adjust: exact; 
     }
 }
 
