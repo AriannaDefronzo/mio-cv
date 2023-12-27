@@ -14,7 +14,7 @@ sidebar:
 
     # Sidebar links
     email: troia.umberto94@gmail.com
-    #phone: 012 345 6789
+    phone: +39 3405484623
     #website: blog.webjeda.com #do not add http://
     linkedin: umberto-benito-troia
     #xing: alandoe
@@ -180,53 +180,118 @@ projects:
       time: In Corso
       company: Microsoft
       details: |
-        Conoscenza di base e comprensione dei concetti chiave relativi a Microsoft Azure e ai servizi cloud in generale. 
+        La certificazione Microsoft AZ-900 mira a fornire una comprensione fondamentale dei concetti di base legati alla 
+        piattaforma cloud di Microsoft Azure. Gli obiettivi di questa certificazione includono la creazione di una base 
+        di conoscenze solida riguardo ai concetti di cloud computing, ai servizi offerti da Azure e alle loro applicazioni
+        pratiche. In particolare, l'obiettivo è che i candidati acquisiscano familiarità con i concetti di infrastruttura 
+        come servizio (IaaS), piattaforma come servizio (PaaS) e software come servizio (SaaS). La certificazione mira a 
+        fornire una panoramica delle principali funzionalità di Azure, inclusi i servizi di calcolo, archiviazione e rete.
+        Inoltre, si propone di spiegare i concetti di sicurezza e conformità relativi all'uso di Azure, così come le opzioni 
+        di supporto e i prezzi. Gli obiettivi della certificazione AZ-900 includono anche la capacità di riconoscere i 
+        vantaggi della migrazione verso il cloud e la comprensione delle pratiche migliori per l'implementazione e la gestione
+        delle risorse in Azure. In sintesi, la certificazione AZ-900 cerca di garantire che i candidati sviluppino una 
+        conoscenza di base delle tecnologie cloud di Azure e siano in grado di valutare come queste possono essere utilizzate 
+        per risolvere problemi aziendali.
         
     - role: 24 CFU insegnamento
       time: 2022 - 2022
       company: eCampus
       details: |
-        Percorso formativo volto all'acquisizione di 24 CFU in discipline 
-        antropo-psico-pedagogiche e in metodologie e tecnologie didattiche
-        validi come requisito di accesso al Concorso Scuola.   
+        Gli obiettivi dei 24 Crediti Formativi Universitari (CFU) nell'insegnamento sono incentrati sulla preparazione degli 
+        studenti all'esercizio della professione di insegnante. Questo percorso formativo mira a fornire una conoscenza 
+        approfondita delle teorie dell'educazione, delle metodologie didattiche e degli aspetti psicologici legati all'insegnamento. 
+        Gli obiettivi includono lo sviluppo di competenze pedagogiche e didattiche, la capacità di progettare e gestire le attività 
+        educative in modo efficace, e la consapevolezza delle sfide e delle opportunità nell'ambito dell'istruzione. Inoltre, si 
+        prefigge di promuovere una riflessione critica sull'educazione, sulla diversità degli studenti e sulla propria pratica 
+        professionale. L'acquisizione di una solida base culturale, disciplinare e pedagogica è parte integrante degli obiettivi, 
+        insieme alla capacità di adattarsi alle nuove dinamiche dell'istruzione e di contribuire positivamente allo sviluppo degli 
+        studenti. Il completamento dei 24 CFU nell'insegnamento è finalizzato a preparare individui competenti, consapevoli e 
+        eticamente responsabili per intraprendere la carriera di insegnante con successo.  
   
     - role: Addestramento professionale alla dattilografia
       time: 2021 - 2021
       company: Irsaf Education
       details: |
-        Addestramento professionale alla dattilografia.
+        L'obiettivo dell'Addestramento Professionale alla Dattilografia è sviluppare competenze avanzate nella digitazione, 
+        consentendo agli individui di raggiungere una velocità e precisione notevoli nella digitazione di testi. Questo 
+        addestramento mira a migliorare l'efficienza e la produttività nell'uso di tastiere, sia per scopi personali che 
+        professionali. Attraverso esercizi pratici e progressivi, l'obiettivo è raggiungere una padronanza della tastiera 
+        che permetta di digitare senza sforzo, consentendo una maggiore concentrazione sul contenuto del testo piuttosto che 
+        sulla meccanica della digitazione. Questo addestramento è particolarmente rilevante in ambiti lavorativi che 
+        richiedono una rapida digitazione, come la trascrizione, l'elaborazione testi, o qualsiasi attività che coinvolga 
+        l'uso costante della tastiera. Inoltre, promuovendo una digitazione corretta e efficiente, l'addestramento mira anche 
+        a prevenire eventuali problemi fisici legati all'uso prolungato della tastiera.
         
     - role: Attestato di qualifica professionale in Tecnico esperto in applicazioni
       time: 2014 - 2015
       company: Centro Studi Levante
       details: |
-        Metodologie di programmazione, Progettazione e gestione di Basi di Dati e Sistemi Informativi,
-        Predisposizione ambienti di sviluppo (linux apache, mysql, php), Progettazione e sviluppo siti
-        web, Programmazione orientata agli oggetti.
+        Il conseguimento di tale attestato mi ha consentito di sviluppare competenze avanzate nelle metodologie di sviluppo 
+        software, comprese le pratiche di progettazione, scrittura e debugging del codice per garantire un software 
+        efficiente e di alta qualità; la conoscenza approfondita nella progettazione e nell'amministrazione di basi 
+        di dati, nonché nella gestione efficace di sistemi informativi per assicurare l'integrità e la disponibilità dei 
+        dati; ho consolidato la mia esperienza nella configurazione e nella gestione di ambienti di sviluppo basati su 
+        tecnologie Linux, Apache, MySQL e PHP (LAMP), garantendo una piattaforma stabile e performante per lo sviluppo 
+        di applicazioni web; ho acquisito conoscenze approfondite nella progettazione e nello sviluppo di siti web, 
+        compreso l'uso di tecnologie front-end e back-end per creare esperienze utente intuitive e funzionalità avanzate; 
+        ho consoilidato le mie conoscenze circa i principi della programmazione orientata agli oggetti (OOP), con abilità 
+        nella progettazione e nell'implementazione di sistemi software modulari, flessibili e manutenibili.
         
     - role: CCNA Discovery - Networking for home and Small Businesses
       time: 2013 - 2013
       company: Cisco
       details: |
-        Configurazione e gestione di reti informatiche domestiche e di piccole aziende.
+        La certificazione Cisco CCNA Discovery - Networking for Home and Small Businesses si concentra sulla progettazione, 
+        configurazione e gestione di reti in ambienti domestici e piccole imprese. I contenuti del corso includono concetti 
+        fondamentali delle reti, protocolli, modelli di comunicazione e architetture di rete. Vengono affrontate tematiche 
+        come la configurazione e la gestione di reti locali (LAN), l'implementazione di reti wireless e la configurazione di 
+        router e switch per il routing dei dati. La certificazione copre anche la progettazione di reti, inclusa la 
+        pianificazione e l'implementazione di reti domestiche e aziendali, oltre ai concetti di sicurezza di base di rete.
     
     - role: ECDL Full
       time: 2013 - 2013
       company: Aica
       details: |
-        Utilizzo dell’intero pacchetto office.
+        La certificazione ECDL Full (European Computer Driving License Full) attesta la competenza digitale attraverso 
+        una serie di moduli che coprono vari aspetti delle competenze informatiche, tra i quali troviamo: concetti di 
+        base sull'hardware, il software e il sistema operativo di un computer, competenze relative alla navigazione su 
+        Internet, alla gestione delle e-mail e alla sicurezza online, certifica l'abilità nell'uso di software di 
+        elaborazione testi per creare, modificare e formattare documenti, competenze nell'utilizzo di fogli elettronici 
+        per creare tabelle, eseguire calcoli e analizzare dati, concetti di sicurezza informatica, inclusi il riconoscimento 
+        delle minacce e le pratiche per proteggere dati e informazioni, riconosce la capacità di creare presentazioni 
+        visive efficaci utilizzando software specifici, conoscenza delle basi dei database e delle competenze nell'utilizzo 
+        di software per la gestione dei dati, certifica l'abilità nella modifica e nell'elaborazione di immagini digitali 
+        utilizzando software dedicati. La certificazione ECDL Full è progettata per garantire una comprensione completa delle
+        competenze informatiche di base e avanzate, fornendo un riconoscimento formale delle capacità digitali di chi la ottiene.
         
     - role: Attestato di lingua Inglese B1.2
       time: 2012 - 2012
       company: Trinity College London
       details: |
-        Certificazione linguistica livello B1.2 con distinzione.
+        L'obiettivo dell'Attestato di Lingua Inglese B1.2 è conferire agli studenti una competenza linguistica più avanzata e 
+        articolata nella lingua inglese. Questo livello mira a consolidare le basi linguistiche acquisite nei livelli precedenti 
+        e a consentire agli studenti di esprimersi in modo più fluente e preciso. Gli obiettivi specifici includono il 
+        miglioramento delle abilità di comprensione e produzione orale e scritta. Nel dettaglio, gli studenti dovrebbero essere 
+        in grado di partecipare attivamente a conversazioni quotidiane su argomenti familiari, di comprendere e redigere testi 
+        più complessi, e di esprimere opinioni e ragionamenti in modo più articolato. La grammatica e il vocabolario diventano 
+        più avanzati, consentendo agli studenti di affrontare situazioni più complesse, sia nella vita quotidiana che in contesti 
+        lavorativi o accademici di base. L'Attestato di Lingua Inglese B1.2, quindi, si propone di elevare il livello di competenza 
+        linguistica degli studenti verso un grado di autonomia e padronanza più avanzato, preparandoli a comunicare efficacemente
+        in una varietà di situazioni e contesti.
         
     - role: IT Essentials - PC Hardware and Software
       time: 2011 - 2011
       company: Cisco
       details: |
-        Assemblatore e riparatore PC, con competenze in ambito Hardware and Software.
+        La Certificazione Cisco IT Essentials - PC Hardware and Software fornisce una conoscenza fondamentale degli 
+        elementi hardware e software dei computer. Il corso copre argomenti come l'hardware del computer, compresi 
+        processori, schede madri, memoria e unità di archiviazione. Esplora i sistemi operativi, inclusi Windows, 
+        Linux e MacOS, illustrando installazione, configurazione e gestione. Affronta le basi delle reti informatiche, 
+        la configurazione degli indirizzi IP e la risoluzione dei problemi di rete. Include anche concetti di sicurezza 
+        informatica, come la protezione da malware e le pratiche di sicurezza. Inoltre, fornisce competenze pratiche per 
+        la manutenzione preventiva, la diagnosi dei problemi hardware e software, nonché le procedure di risoluzione dei 
+        problemi. L'obiettivo è preparare gli studenti a gestire in modo efficace gli aspetti essenziali dell'hardware e 
+        del software dei computer per scopi educativi e professionali.
         
 #publications:
  #   title: Publications
