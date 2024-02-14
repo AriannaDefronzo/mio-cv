@@ -9,20 +9,20 @@ sidebar:
   
     # Profile information
     name: Arianna Defronzo
-    tagline: R&D - Software Engineer
+    tagline: Account Manager & Customer Success Manager 
     avatar: profil.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: troia.umberto94@gmail.com
+    email: ariannadefronzo66@gmail.com
     #phone: +39 3405484623
     #website: blog.webjeda.com #do not add http://
-    linkedin: umberto-benito-troia
+    linkedin: arianna-defronzo
     #xing: alandoe
     #github: sharu725
     #telegram: # add your nickname without '@' sign
     #gitlab:
     #bitbucket:
-    twitter: '@UmbertoBTroia'
+    #twitter:
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
@@ -33,16 +33,16 @@ sidebar:
         level: Madrelingua
 
       - idiom: Inglese
-        level: Intermedio
+        level: B1
 
       - idiom: Francese
-        level: Scolastico
+        level: B2
 
     interests:
-      - item: Nuoto
+      - item: Recitazione
         link:
 
-      - item: Basket
+      - item: Canto
         link:
         
       - item: Musica
@@ -57,31 +57,18 @@ sidebar:
 career-profile:
     title: Il mio profilo
     summary: |
-      Sono Umberto Benito Troia, attualmente ricopro la posizione di Software Engineer 
-      presso Talentia Software con una solida formazione (in corso) presso il Politecnico 
-      di Bari nella Facoltà di Ingegneria Informatica – Sistemi ed Applicazioni Informatiche. 
-      La mia esperienza professionale e accademica si fonde, portando in dote competenze avanzate 
-      in ambito sistemistico e nello sviluppo software e web. Presso Talentia Software, mi occupo 
-      attivamente di Ricerca e Sviluppo, contribuendo all'innovazione e al miglioramento continuo 
-      delle soluzioni software dell'azienda. Inoltre curo la contabilità dell’azienda di famiglia. 
-      Lavoro bene sia con adulti che con giovani ed essendo una persona pro attiva al cambiamento 
-      riesco ad adattarmi facilmente a situazioni nuove. Sono capace di effettuare piccole 
-      riparazioni sia hardware che software e se richiesto riesco ad agire in totale autonomia.
+      Sono una professionista appassionata del settore del servizio clienti, 
+      con una solida esperienza in ambiti eterogenei quali educazione, sanità 
+      e sviluppo software. Attraverso questi contesti, ho affinato competenze 
+      trasversali nelle fasi di consulenza, vendita e assistenza, mantenendo 
+      sempre un approccio orientato al cliente e arricchito da un sorriso genuino. 
+      In cerca di un ambiente lavorativo stabile e stimolante, desidero condividere 
+      la mia passione e la mia esperienza con colleghi e clienti, contribuendo al 
+      successo e al benessere dell'organizzazione.
 education:
-    - degree: Ingegneria Informatica – Sistemi ed applicazioni informatiche 
-      university: Politecnico di Bari - Bari (BA)
+    - degree: Maturità Liceale
+      university: Liceo delle Scienze Umane opzione Economico Sociale ""V.Fornari""  - Molfetta (BA)
       time: 2013 - in corso
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: Perito Industriale Informatico
-      university: I.T.I.S. “Galileo Ferraris” - Molfetta (BA)
-      time: 2008 - 2013
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
