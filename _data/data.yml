@@ -67,8 +67,8 @@ career-profile:
       successo e al benessere dell'organizzazione.
 education:
     - degree: Maturità Liceale
-      university: Liceo delle Scienze Umane opzione Economico Sociale ""V.Fornari""  - Molfetta (BA)
-      time: 2013 - in corso
+      university: Liceo delle Scienze Umane opzione Economico Sociale "V.Fornari"  - Molfetta (BA)
+      time: 2013 - 2018
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -78,30 +78,15 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Software Engineer
-      time: 2022 - ad oggi
-      company: Talentia Software Italia - Bari (BA)
+    - role: Account Manager / Customer Success Manager
+      time: 2023 - Ad oggi
+      company: GoStudent - Milano (MI)
       details: |
-       In qualità di Software Engineer, la mia carriera si è concentrata su diverse 
-       tappe cruciali del ciclo di sviluppo software, dimostrando una padronanza delle 
-       fasi di analisi, sviluppo e ricerca. Nel contesto dell'analisi, ho collaborato 
-       attivamente con gli stakeholder ed attraverso la comprensione delle loro esigenze
-       ho potuto eseguire una traduzione chiara dei requisiti di progetto. Nel corso delle
-       attività di sviluppo, ho svolto un ruolo chiave nella progettazione e nell'implementazione
-       di soluzioni avanzate. Questo ha coinvolto l'integrazione sinergica del sistema di gestione
-       e modellazione dei dati basato su SQL Server con linguaggi di programmazione quali C# 
-       e JavaScript. Attraverso questa integrazione, ho facilitato la manipolazione ed 
-       elaborazione efficiente dei dati, garantendo una gestione coesa e ottimizzata 
-       dell'intero ciclo di sviluppo. La partecipazione dinamica alla Ricerca e Sviluppo
-       (R&D) è stata un elemento chiave, guidandomi nell'esplorazione di nuove tecnologie 
-       e nella creazione di prototipi avanzati, alimentando continuamente l'innovazione 
-       delle soluzioni software. Ho mantenuto uno sguardo attento al testing software, 
-       implementato test unitari dettagliati con framework come JUnit, NUnit o SpecFlow,
-       di integrazione e di sistema, lavorando in stretta collaborazione con i team QA per 
-       garantire la solidità e la qualità delle applicazioni. Nei progetti più recenti ho 
-       esteso le mie competenze all'integrazione di soluzioni esterne ,mediante Rest API, 
-       tra cui Arca24 per l'importazione di campagne di recruiting e la gestione dei 
-       candidati, nonché l'interazione con Urssaf per la redazione del DPAE.
+        •	Ricezione e qualificazione delle leads volta all'acquisizione di nuovi clienti, 
+            con conversione di oltre 180 clienti a febbraio 2024.
+        •	Gestione portfolio clienti, presentazione efficace ed esaustiva dei servizi 
+        aziendali, fidelizzazione dei clienti esistenti, utilizzo di strategie di upselling 
+        e cross-selling, risoluzione rapida ed efficiente di problemi post-vendita.
         
     - role: Hepdesk IT Support
       time: 2022 - 2022
