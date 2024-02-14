@@ -198,8 +198,8 @@ skills:
     title: Abilit&agrave e competenze
 
     toolset:
-      - name: HTML
-        level: 90%
+      - name: Gestione del cliente
+        #level: 90%
 
       - name: PHP
         level: 35%
