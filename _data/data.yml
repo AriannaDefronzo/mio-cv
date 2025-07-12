@@ -67,6 +67,16 @@ career-profile:
       la mia passione e la mia esperienza con colleghi e clienti, contribuendo al 
       successo e al benessere dell'organizzazione.
 education:
+    - degree: Economia Aziendale
+      university: Unipegaso
+      time: 2025 - In corso
+      details: | 
+      
+    - degree: Maturità Liceale
+      university: Liceo delle Scienze Umane opzione Economico Sociale "V.Fornari"  - Molfetta (BA)
+      time: 2013 - 2018
+      details: | 
+      
     - degree: EIRSAF Full
       university: Irsaf Education
       time: 2024 - 2024
@@ -75,12 +85,7 @@ education:
     - degree: Addestramento professionale alla dattilografia
       university: Irsaf Education
       time: 2023 - 2023
-      details: |
-      
-    - degree: Maturità Liceale
-      university: Liceo delle Scienze Umane opzione Economico Sociale "V.Fornari"  - Molfetta (BA)
-      time: 2013 - 2018
-      details: |   
+      details: |  
 
 experiences:
     - role: Account Manager / Educational Sales Specialist
